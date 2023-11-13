@@ -213,7 +213,7 @@ export default class AboutBuildModal extends React.PureComponent<Props, State> {
                         <div>
                             <h3 className='about-modal__title'>
                                 <strong>
-                                    {'Mattermost'} {title}
+                                    {'SEC Workspace'} {title}
                                 </strong>
                             </h3>
                             <p className='about-modal__subtitle pb-2'>
